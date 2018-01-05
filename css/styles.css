@@ -46,14 +46,18 @@ ul {
 }
 
 .col-md-3 {
-  text-align: center;
+  text-align: justify;
   margin-left: 70px;
 }
 
 h3 {
-  display: block;
+  text-align: center;
 }
 
 .wk-projects{
+
+}
+
+.schools {
 
 }
