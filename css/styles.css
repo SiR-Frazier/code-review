@@ -5,7 +5,7 @@ h1 {
 
 body {
     color: #4286f4;
-    background-color: ###FFB6C1;
+    background-color: #FFB6C1;
 }
 ul {
    font-size: 1.25em;
@@ -20,4 +20,13 @@ ul {
 .coffee-pic {
   margin: auto;
   display: block;
+}
+
+.container {
+  text-align: justify;
+}
+
+.jumbotron {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
