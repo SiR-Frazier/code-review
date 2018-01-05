@@ -6,6 +6,7 @@ h1 {
 body {
     color: #4286f4;
     background-color: #FFB6C1;
+    font-family: verdana;
 }
 
 #aboutme {
@@ -44,6 +45,10 @@ ul {
   text-align: center;
 }
 
-.h3 {
-  text-align: center;
+h3 {
+  display: block;
+}
+
+.wk-projects{
+
 }
