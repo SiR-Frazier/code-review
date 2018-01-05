@@ -35,15 +35,19 @@ ul {
 
 .container {
   text-align: justify;
+  padding: 10px;
+  margin: auto;
 }
 
 .jumbotron {
   padding-top: 5px;
   padding-bottom: 5px;
+  background-color: ;
 }
 
 .col-md-3 {
   text-align: center;
+  margin-left: 70px;
 }
 
 h3 {
