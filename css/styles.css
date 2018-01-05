@@ -7,6 +7,15 @@ body {
     color: #4286f4;
     background-color: #FFB6C1;
 }
+
+#aboutme {
+  text-align: center;
+}
+
+#week1 {
+  text-align: center;
+}
+
 ul {
    font-size: 1.25em;
  }
@@ -29,4 +38,12 @@ ul {
 .jumbotron {
   padding-top: 5px;
   padding-bottom: 5px;
+}
+
+.col-md-3 {
+  text-align: center;
+}
+
+.h3 {
+  text-align: center;
 }
