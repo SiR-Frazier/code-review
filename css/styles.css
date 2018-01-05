@@ -61,3 +61,15 @@ h3 {
 .schools {
 
 }
+
+.hobbies {
+  word-spacing: -.09em;
+}
+
+.experience {
+  word-spacing: -.10em;
+}
+
+.row {
+  word-spacing: -.09em;
+}
