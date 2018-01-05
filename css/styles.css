@@ -30,7 +30,23 @@ ul {
 .coffee-pic {
   margin: auto;
   display: block;
-  padding: 35px;
+  padding: 20px;
+  height: auto;
+  width: auto;
+}
+
+.record {
+  margin: auto;
+  display: block;
+  padding: 20px;
+  height: auto;
+  width: auto;
+  max-width: 380px;
+  max-height: 400px;
+}
+
+.images {
+  float: above;
 }
 
 .container {
