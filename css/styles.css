@@ -6,7 +6,7 @@ h1 {
 body {
     color: #4286f4;
     background-color: #FFB6C1;
-    font-family: verdana;
+    font-family: courier;
 }
 
 #aboutme {
@@ -30,6 +30,7 @@ ul {
 .coffee-pic {
   margin: auto;
   display: block;
+  padding: 35px;
 }
 
 .container {
