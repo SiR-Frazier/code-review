@@ -1,5 +1,4 @@
-# _{Application Name}_
-
+# _My Portfolio_
 #### _Week 1 Code Review Project, 1/5/2-18_
 
 #### By _Bryce Frazier_
